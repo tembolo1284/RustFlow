@@ -51,7 +51,7 @@ rustflow/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rustflow.git
+   git clone https://github.com/tembolo1284/rustflow.git
    cd rustflow
    ```
 
